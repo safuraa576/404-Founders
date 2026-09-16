@@ -3,5 +3,5 @@
 Team Members :
 1. Safura Mahweesh
 2. K. Abhi Ram Reddy
-3. G. Akshay
+3. G. Akshay Vardhan 
 4. Ch Lokesh
