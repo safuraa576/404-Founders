@@ -35,7 +35,7 @@ AI, engineering, and ideas that could become something real.
 
 | | Name | Role |
 |---|---|---|
-| 01 | **Safura Mahweesh** | AI Tech Writer & Researcher |
+| 01 | **Safura Mahweesh (TL)** | AI Tech Writer & Researcher |
 | 02 | **K. Abhi Ram Reddy** | MLOps Engineer |
 | 03 | **G. Akshay Vardhan** | Data Scientist |
 | 04 | **Ch. Lokesh** | AI Engineer |
