@@ -1,10 +1,60 @@
-# 404 Founders
-### Full Fledged Project Built under the guidance of Code Unnati Mentor Mr. Karan by my Team : 404 Founders.  
-### Team Members
+<div align="center">
 
-| S.No | Names | Roll No | Job Roles |
-| :--- | :--- | :--- | :--- |
-| 1. | Safura Mahweesh (TL) | 246F1A6658 | AI Tech Writer Researcher |
-| 2. | K. Abhi Ram Reddy | 246F1A6652 | MLOPS Engineer |
-| 3. | G. Akshay Vardhan | 246F1A6752 | Data Scientist |
-| 4. | Ch Lokesh | 246F1A6649 | AI Engineer |
+# `404`
+
+### 𝗙𝗢𝗨𝗡𝗗𝗘𝗥𝗦
+
+**Building what doesn't exist yet.**
+
+<br>
+
+`404` • `CREATE` • `BUILD` • `BREAK` • `REPEAT`
+
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-BUILDING-000000?style=for-the-badge)
+![Team](https://img.shields.io/badge/TEAM-404%20FOUNDERS-6C63FF?style=for-the-badge)
+![Mentor](https://img.shields.io/badge/MENTOR-MR.%20KARAN-181717?style=for-the-badge)
+
+</div>
+
+---
+
+## 🧠 THE IDEA
+
+> **404 — because we're building what hasn't been found yet.**
+
+A team of builders, thinkers, and problem-solvers exploring technology,
+AI, engineering, and ideas that could become something real.
+
+**Project coming soon.**
+
+---
+
+## 👥 THE FOUNDERS
+
+| | Name | Role |
+|---|---|---|
+| 01 | **Safura Mahweesh** | AI Tech Writer & Researcher |
+| 02 | **K. Abhi Ram Reddy** | MLOps Engineer |
+| 03 | **G. Akshay Vardhan** | Data Scientist |
+| 04 | **Ch. Lokesh** | AI Engineer |
+
+### 🧑‍🏫 Mentor
+
+**Mr. Karan**  
+*Code Unnati Mentor*
+
+---
+
+<div align="center">
+
+### `404 FOUNDERS`
+
+**No limits. No predefined path. Just build. ⚡**
+
+<br>
+
+`IDEA → CODE → CHAOS → INNOVATION`
+
+</div>
